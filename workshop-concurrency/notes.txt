@@ -1,0 +1,22 @@
+# Concurrency in Python
+* Yield - Generators
+* AsyncIO
+* Parallelism
+	* Multiprocessing
+* Concurrency
+* Patterns
+	* Courutines
+* Pitfalls
+	* Mix of async and sync
+* Comparision
+	* Processes
+	* Threads
+	* Async
+
+# Sources
+	* Scaling with python 
+	* [asyncio — Asynchronous I/O — Python 3.8.1 documentation](https://docs.python.org/3/library/asyncio.html)
+	* Introduction to currency in programming
+	* Reverse Proxy
+	* Event Loop
+	* [Python Tutorials – Real Python](https://realpython.com/)
